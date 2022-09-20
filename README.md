@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Qianchen (Fiona), happy to meet u here!
 - 👀 For now, I’m interested in FL and NLP, and these are the places where my recently research lays.
-- 🏫 I’m currently a senior student in Chongqing University, China.
-- 🤗 I do enjoy lots of hobbies! I relish sports are hiking, yoga, loping, tennis, gym working, swimming and so on. Also, I am a big fan of movies and books. It is pretty hard to tell all my favorites, but I can rank _Cloud Atlas_, _Fight Club_ and _The Secret Life of Walter Mitty_ as my top3. I'd be quite thrilled if we share the common taste! Do let me know!
-- 📣 Oh right! I'm totally obsessed with the Lord of the Rings and the other tales about the Middle Earth in Tolkein's books.
+- 🏫 I’m currently a senior student major in CS at Chongqing University, China.
+- 🤗 I relish sports are hiking, yoga, loping, tennis, gym working, swimming and so on. Also, I am a big fan of various movies and books.I'd be quite thrilled if we share the common taste! Plus, I'm totally obsessed with the Lord of the Rings and the other tales about the Middle Earth in Tolkein's books
+- 📣 I now work as a software engineer intern at Microsoft, Shanghai, and my group focuses on data platform, which belongs to DevDiv, thus lately I have been looking into spark and other things concerning with big data, feel free if you have any suggestions!
 - 📮 Contact me: qianchenchen419@gmail.com
 <!---
 FionaChan01/FionaChan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
