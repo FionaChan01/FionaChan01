@@ -1,15 +1,11 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
-<div align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
+  
+<div align="left">
   <a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
   <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
   <a href="https://www.instagram.com/qianchen.cchen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&emsp;
  
 </div>
-
-
-
-
-
 
 - <img src="https://raw.githubusercontent.com/FionaChan01/FionaChan01.github.io/master/images/Hi.gif" width="20px"> Hi, I’m Qianchen (Fiona), happy to meet u here!
 - 👀 For now, I’m interested in FL and NLP, and these are the places where my recently research lays.
