@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
 
-- 👋 Hi, I’m Qianchen (Fiona), happy to meet u here!
+- <img src="https://raw.githubusercontent.com/FionaChan01/FionaChan01.github.io/master/images/Hi.gif" width="20px"> Hi, I’m Qianchen (Fiona), happy to meet u here!
 - 👀 For now, I’m interested in FL and NLP, and these are the places where my recently research lays.
 - 🏫 I’m currently a senior student major in CS at Chongqing University, China.
 - 🤗 I relish sports are hiking, yoga, loping, tennis, gym working, swimming and so on. Also, I am a big fan of various movies and books.I'd be quite thrilled if we share the common taste! Plus, I'm totally obsessed with the Lord of the Rings and the other tales about the Middle Earth in Tolkein's books
