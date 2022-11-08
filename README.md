@@ -16,13 +16,14 @@
 - 📮 Contact me: qianchen.chen@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fionachan01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<!-- ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ![Qianchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionachan01&count_private=true&show_icons=true&theme=moltack)
 
-
+ -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionachan01&repo=medi-BERT&theme=moltack)](https://github.com/fionachan01/github-readme-stats)
  -->
