@@ -1,5 +1,5 @@
 <!-- 访客数统计徽标 -->
-  <img src="(https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)" />
+<img src="(https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)" />
 
 <div align="center">
   <a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
@@ -17,7 +17,7 @@
 - 📣 I now work as a software engineer intern at Microsoft, Shanghai, and my group focuses on data platform, which belongs to DevDiv, thus lately I have been looking into spark and other things concerning with big data, feel free if you have any suggestions!
 - 📮 Contact me: qianchen.chen@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fionachan01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fionachan01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
