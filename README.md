@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
+  <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="(https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)" /></div>
 
