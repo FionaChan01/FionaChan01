@@ -1,4 +1,4 @@
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
 <div align="center">
   <a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
   <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
@@ -7,7 +7,7 @@
 </div>
 
 
-<img src="(https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)" />
+
 
 
 
