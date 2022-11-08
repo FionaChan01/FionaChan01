@@ -4,7 +4,7 @@
   <a href="https://careers.microsoft.com/professionals/us/en/l-shanghai"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
   <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
   <a href="https://www.instagram.com/qianchen.cchen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&emsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5b59d2c9e8ac2b162da434dc?xhsshare=CopyLink&appuid=5b59d2c9e8ac2b162da434dc&apptime=1667907134"><img src="https://github.com/FionaChan01/FionaChan01.github.io/blob/master/images/xiaohongshu.png" width"1px"></a>&emsp;
+  <a href="https://www.xiaohongshu.com/user/profile/5b59d2c9e8ac2b162da434dc?xhsshare=CopyLink&appuid=5b59d2c9e8ac2b162da434dc&apptime=1667907134"><img src="https://github.com/FionaChan01/FionaChan01.github.io/blob/master/images/xiaohongshu.png" width="28px"></a>&emsp;
  
 </div>
 
