@@ -1,4 +1,4 @@
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffionachan01%2FREADME.md&count_bg=%2379C83D&title_bg=%23C70FA1&icon=linux.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
   
 <div align="left">
   <a href="https://careers.microsoft.com/professionals/us/en/l-shanghai"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
