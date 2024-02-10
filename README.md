@@ -9,10 +9,10 @@
 </div>
 
 - <img src="https://raw.githubusercontent.com/FionaChan01/FionaChan01.github.io/master/images/Hi.gif" width="20px"> Hi, I’m Qianchen (Fiona), happy to meet you here!
-- 👀 I’m currently a master's student studying computer systems at Carnegie Mellon University
+- 👀 I’m currently a master's student studying computer systems at Carnegie Mellon University in the Program of Master of Science in Information Networking (MSIN).
+- 📣 Before coming to Carnegie Mellon, I worked as a software engineer intern at Microsoft, Shanghai for 6 months. And my group was data platforms, under the Developer Division. The work and learning there piqued my interest in cloud computing, big data as well as computer systems.
+- 📚 This semester, I am taking Advanced Cloud Computing, Distributed Systems, Machine Learning in Production, and Cloud Infrastructure.
 - 🤗 I love sports like hiking, yoga, loping, tennis, gym working, swimming, etc. Plus, I am a big fan of movies and books. I'm obsessed with the Lord of the Rings and the other tales about Middle Earth in Tolkien's books. I'd be quite thrilled if we share the common taste!
-- 📣 Before coming to Carnegie Mellon University, I worked as a software engineer intern at Microsoft, Shanghai for 6 months. And my group is data platforms, under the Developer Division. The work and learning there piqued my interest in cloud computing, big data as well as computer systems.
-- 📚 This semester, I am taking Advanced Cloud Computing, Distributed Systems, Machine Learning in Production, Cloud Infrastructure.
 - 📮 Contact me: qianchen.chen@outlook.com
 
 
